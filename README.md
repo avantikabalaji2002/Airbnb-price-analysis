@@ -33,7 +33,8 @@ jupyter notebook notebooks/Airbnb_price_analysis.ipynb
 ```
 
 ## 📷 Sample Visualizations
-*(Insert your best chart or screenshot here)*
+*<img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/4ae54857-7da6-450a-b03f-6beda0b1b976" />
+*
 
 ## 🛠 Future Enhancements
 - Build predictive models for price forecasting
