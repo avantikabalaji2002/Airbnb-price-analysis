@@ -29,7 +29,7 @@ cd airbnb-price-analysis
 pip install -r requirements.txt
 
 # Open the Jupyter Notebook
-jupyter notebook notebooks/Airbnb_price_analysis_Airbnb.ipynb
+jupyter notebook notebooks/Airbnb_price_analysis.ipynb
 ```
 
 ## 📷 Sample Visualizations
